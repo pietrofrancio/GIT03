@@ -2,14 +2,17 @@
     margin: 0;
     padding: 0;
 }
+body{
+    background-color: black;
+}
 h1{
     text-align: center;
-    color: blueviolet;
+    color: sandybrown;
     margin-top: 24px;
     font-family: 'Franklin Gothic Medium';
 }
 p{
-    color: coral;
+    color: salmon;
     margin-top: 24px;
     margin-left: 16px;
 }
